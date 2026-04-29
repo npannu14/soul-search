@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "demonrun",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -132,7 +132,7 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_796BB8B7","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_796BB8B7","path":"rooms/demonrun/demonrun.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
