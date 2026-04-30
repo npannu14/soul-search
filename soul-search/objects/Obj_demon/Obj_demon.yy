@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_border",
+  "name": "Obj_demon",
   "spriteId": {
-    "name": "Spr_border",
-    "path": "sprites/Spr_border/Spr_border.yy",
+    "name": "Spr_demon_idle",
+    "path": "sprites/Spr_demon_idle/Spr_demon_idle.yy",
   },
   "solid": true,
   "visible": true,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "collisions",
-    "path": "folders/Objects/collisions.yy",
+    "name": "demon",
+    "path": "folders/Objects/demon.yy",
   },
 }

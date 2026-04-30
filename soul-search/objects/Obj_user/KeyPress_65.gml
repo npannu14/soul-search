@@ -1,7 +1,8 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 0819945F
+/// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "Spr_player_walk_left"
 /// @DnDSaveInfo : "spriteind" "Spr_player_walk_left"
 sprite_index = Spr_player_walk_left;
-image_index = 0;
+image_index += 0;
