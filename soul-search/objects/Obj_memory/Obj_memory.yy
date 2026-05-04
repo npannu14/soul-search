@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_2dzombie",
+  "name": "Obj_memory",
   "spriteId": {
-    "name": "Spr_zombie_idle_left",
-    "path": "sprites/Spr_zombie_idle_left/Spr_zombie_idle_left.yy",
+    "name": "Spr_memory",
+    "path": "sprites/Spr_memory/Spr_memory.yy",
   },
   "solid": true,
   "visible": true,
@@ -25,12 +25,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_2d_user","path":"objects/Obj_2d_user/Obj_2d_user.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_user","path":"objects/Obj_user/Obj_user.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "zombie",
-    "path": "folders/Objects/zombie.yy",
+    "name": "memory",
+    "path": "folders/Objects/memory.yy",
   },
 }
