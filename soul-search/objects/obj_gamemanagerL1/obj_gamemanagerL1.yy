@@ -1,13 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_border",
-  "spriteId": {
-    "name": "Spr_border",
-    "path": "sprites/Spr_border/Spr_border.yy",
-  },
-  "solid": true,
-  "visible": false,
+  "name": "obj_gamemanagerL1",
+  "spriteId": null,
+  "solid": false,
+  "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -24,11 +21,14 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":64,"eventType":8,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "collisions",
-    "path": "folders/Objects/technicalstuff/collisions.yy",
+    "name": "technicalstuff",
+    "path": "folders/Objects/technicalstuff.yy",
   },
 }

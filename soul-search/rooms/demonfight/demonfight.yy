@@ -22,6 +22,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_296D5F5","properties":[],"isDnd":false,"objectId":{"name":"Obj_border","path":"objects/Obj_border/Obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.5,"scaleY":11.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_32153C40","properties":[],"isDnd":false,"objectId":{"name":"Obj_border","path":"objects/Obj_border/Obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.0,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":736.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60447EA5","properties":[],"isDnd":false,"objectId":{"name":"Obj_border","path":"objects/Obj_border/Obj_border.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.0,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":512.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7CB57572","properties":[],"isDnd":false,"objectId":{"name":"obj_gamemanagerL1","path":"objects/obj_gamemanagerL1/obj_gamemanagerL1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":64.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_3","tilesetId":{"name":"til_hell_ground","path":"tilesets/til_hell_ground/til_hell_ground.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 -2531,-2147483648,-11,0,-75,-2147483648,-25,0,-61,-2147483648,-25,0,-41,-2147483648,-8,0,-12,-2147483648,-25,0,-41,-2147483648,-45,0,-24,-2147483648,1204,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,142,143,
@@ -62,11 +63,11 @@
 230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,227,228,229,230,231,226,-2147483648,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,
 275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,272,273,274,275,276,271,-2147483648,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,
 320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,317,318,319,320,321,316,-860,-2147483648,],},"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7E5F746D","properties":[],"isDnd":false,"objectId":{"name":"Obj_2d_user","path":"objects/Obj_2d_user/Obj_2d_user.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":4.0,"scaleY":3.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":288.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_16412977","properties":[],"isDnd":false,"objectId":{"name":"Obj_demon","path":"objects/Obj_demon/Obj_demon.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.7317073,"scaleY":4.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":832.0,"y":160.0,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"player","instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_12D10D41","properties":[],"isDnd":false,"objectId":{"name":"Obj_2d_user","path":"objects/Obj_2d_user/Obj_2d_user.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.5,"scaleY":3.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":288.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7EC7DBA4","properties":[],"isDnd":false,"objectId":{"name":"Obj_demon","path":"objects/Obj_demon/Obj_demon.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":3.7317073,"scaleY":4.2,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":192.0,},
       ],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"hiddenplayer","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1169F84E","properties":[],"isDnd":false,"objectId":{"name":"Obj_user","path":"objects/Obj_user/Obj_user.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":608.0,},
       ],"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1_1","tilesetId":{"name":"til_hell_ground","path":"tilesets/til_hell_ground/til_hell_ground.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
@@ -96,14 +97,15 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_7E5F746D","path":"rooms/demonfight/demonfight.yy",},
-    {"name":"inst_16412977","path":"rooms/demonfight/demonfight.yy",},
     {"name":"inst_78074E09","path":"rooms/demonfight/demonfight.yy",},
     {"name":"inst_73822B3F","path":"rooms/demonfight/demonfight.yy",},
     {"name":"inst_296D5F5","path":"rooms/demonfight/demonfight.yy",},
     {"name":"inst_32153C40","path":"rooms/demonfight/demonfight.yy",},
     {"name":"inst_60447EA5","path":"rooms/demonfight/demonfight.yy",},
     {"name":"inst_1169F84E","path":"rooms/demonfight/demonfight.yy",},
+    {"name":"inst_12D10D41","path":"rooms/demonfight/demonfight.yy",},
+    {"name":"inst_7EC7DBA4","path":"rooms/demonfight/demonfight.yy",},
+    {"name":"inst_7CB57572","path":"rooms/demonfight/demonfight.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
