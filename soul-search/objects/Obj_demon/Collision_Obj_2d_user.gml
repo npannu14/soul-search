@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 7CE91D62
-/// @DnDArgument : "expr" "-1"
+/// @DnDHash : 40114422
+/// @DnDArgument : "expr" "-5"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "health"
-health += -1;
+/// @DnDArgument : "var" "var_demonhealth"
+var_demonhealth += -5;

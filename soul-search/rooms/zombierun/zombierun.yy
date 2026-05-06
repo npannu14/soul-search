@@ -18,6 +18,7 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"player","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_199DBAE8","properties":[],"isDnd":false,"objectId":{"name":"Obj_user","path":"objects/Obj_user/Obj_user.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.87500006,"scaleY":0.90625,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":752.0,"y":134.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_12FF6909","properties":[],"isDnd":false,"objectId":{"name":"obj_gamemanagerL1","path":"objects/obj_gamemanagerL1/obj_gamemanagerL1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":88.0,"y":73.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":1,"gridY":1,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"zombie","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_15D4151B","properties":[],"isDnd":false,"objectId":{"name":"Obj_zombie","path":"objects/Obj_zombie/Obj_zombie.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":288.0,},
@@ -411,6 +412,7 @@
     {"name":"inst_3EE4687D","path":"rooms/zombierun/zombierun.yy",},
     {"name":"inst_5BB38F0A","path":"rooms/zombierun/zombierun.yy",},
     {"name":"inst_1419D6B9","path":"rooms/zombierun/zombierun.yy",},
+    {"name":"inst_12FF6909","path":"rooms/zombierun/zombierun.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
