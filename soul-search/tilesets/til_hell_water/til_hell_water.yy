@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "til_hell_water",
   "spriteId": {
-    "name": "Spr_hell_water",
-    "path": "sprites/Spr_hell_water/Spr_hell_water.yy",
+    "name": "spr_hell_water",
+    "path": "sprites/spr_hell_water/spr_hell_water.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,

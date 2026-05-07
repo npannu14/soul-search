@@ -7,20 +7,10 @@ if(var_demonhealth <= 0)
 {
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
-	/// @DnDHash : 25F7A318
+	/// @DnDHash : 0C8D63F9
 	/// @DnDParent : 62AFE279
-	/// @DnDArgument : "imageind" "7"
-	/// @DnDArgument : "imageind_relative" "1"
-	/// @DnDArgument : "spriteind" "Spr_demon_death"
-	/// @DnDSaveInfo : "spriteind" "Spr_demon_death"
-	sprite_index = Spr_demon_death;
-	image_index += 7;
-
-	/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
-	/// @DnDVersion : 1
-	/// @DnDHash : 0AACF7FD
-	/// @DnDParent : 62AFE279
-	/// @DnDArgument : "x" "Obj_2d_user.x"
-	/// @DnDArgument : "y" "Obj_2d_user.y"
-	direction = point_direction(x, y, Obj_2d_user.x, Obj_2d_user.y);
+	/// @DnDArgument : "spriteind" "Spr__demon_death"
+	/// @DnDSaveInfo : "spriteind" "Spr__demon_death"
+	sprite_index = Spr__demon_death;
+	image_index = 0;
 }
