@@ -1,4 +1,4 @@
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDAction : YoYo Games.Rooms.Next_Room
 /// @DnDVersion : 1
-/// @DnDHash : 42DA7656
-instance_destroy();
+/// @DnDHash : 18E2D4CB
+room_goto_next();

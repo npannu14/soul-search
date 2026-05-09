@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Obj_fireball",
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_fireball",
+    "path": "sprites/Spr_fireball/Spr_fireball.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
